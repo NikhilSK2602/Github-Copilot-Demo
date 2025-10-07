@@ -1,0 +1,5 @@
+# Created at 2025-10-05T19:50:20.346
+Boot Manifest-JAR contains absolute paths in classpath 'E:\amazon-copilot-demoo\amazon-copilot-demo\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
